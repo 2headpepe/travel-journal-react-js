@@ -1,0 +1,36 @@
+.Header--wrapper {
+  background: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 55px;
+  width: 100%;
+  margin: 0;
+}
+.Header--text {
+  margin-left: 10px;
+}
+
+.Header--text:link,
+.Header--text:visited {
+  text-decoration: none;
+  color: #fff;
+}
+
+.Header--icon {
+  max-height: 24px;
+  max-width: 24px;
+}
+
+.Header--text {
+  width: 109px;
+  height: 16px;
+  color: #fff;
+  font-family: Inter;
+  font-size: 14.461px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -1.085px;
+}
